@@ -1,0 +1,14 @@
+{
+  "name": "gym",
+  "version": "1.0.0",
+  "description": "All-in web application for the gym",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nelis Eerdekens",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
